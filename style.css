@@ -5,7 +5,7 @@ body, html{ font-family: 'Inter', Arial, Helvetica, sans-serif; font-size: 16px;
 
 /* Menu */
 :root { 
-    --menu-bg: #5b368b;
+    --menu-bg: #8b3687;
     --menu-color: #fff; }
 
 .header{ background-color: var(--menu-bg); position: fixed; top:0;  left:0; z-index: 9999; width: 100%; padding: 10px 15px; }
@@ -52,7 +52,7 @@ a{color: coral}
   text-decoration: none;padding: 14px 25px; display: inline-block;
   border-radius: 4px; font-weight: 700;
 }
-.button:hover{ background: #b27dd1; }
+.button:hover{ background: #8b3687; }
 
 /* ! Grid System */
 .grid { margin: 0 auto; padding: 0 10px; max-width: 1250px; display: flex; flex-flow: row; flex-wrap: wrap;}
